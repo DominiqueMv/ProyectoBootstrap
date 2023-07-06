@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*Navbar*/
+.color1{
+    background-color: rgb(46, 150, 190);
+}
+.navbar-collapse{
+    background-color:rgb(46, 150, 190);
+    color: rgb(46, 150, 190);
+}
+
+.navbar-nav .nav-link:hover{
+    color: rgb(74, 92, 55);
+    background-color:aliceblue;
+    border-radius: 5px;
+}
+
+/*Imagenes de yoyos*/
+.yoyos{
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    max-height: 300px;
+}
+
+.img-top{
+    border-radius: 30px;
+    
+}
+.card{
+    border-radius: 20px;
+}
+.btn-outline-warning{
+    border-radius: 30px;
+}
